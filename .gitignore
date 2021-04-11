@@ -1,0 +1,19 @@
+# User-specific files
+# ignore
+
+.git
+.gitee
+allDLY2480/
+depencencies/
+documents/
+mdImages/
+references/
+qfeng_apexprojects/
+tutorials/
+allDLY2480.7z
+scripts/apexdata/apexSoilCligenChinaData.sqlite
+apexSoilCligenUSData.sqlite
+log.txt
+*.zip
+scripts/__pycache__
+DevelopingNotes.md
